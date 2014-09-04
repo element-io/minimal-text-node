@@ -1,6 +1,6 @@
 {
   "name": "minimal-text-node",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Factory for creating minimal text nodes.",
   "author": {
     "name": "Athan Reines",
